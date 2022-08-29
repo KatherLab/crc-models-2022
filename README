@@ -1,8 +1,8 @@
 Download marugoto from https://github.com/KatherLab/marugoto.
 Set up dependencies in your local python environment.
 Download the model (export-X.pkl) from one of the directories in this repository.
-Rename to export.pkl
-Follow instruction ins marugoto README on how to deploy a model in marugoto
+Rename to export.pkl .
+Follow instruction in marugoto README on how to deploy a model in marugoto.
 
 When using marugoto in the deploy mode for one of the models from this repository use
 
