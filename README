@@ -1,1 +1,18 @@
-Before using load_model.py install python dependencies from marugoto https://github.com/KatherLab/marugoto in your local environment.
+Download marugoto from https://github.com/KatherLab/marugoto.
+Set up dependencies in your local python environment.
+Download the model (export-X.pkl) from one of the directories in this repository.
+Rename to export.pkl
+Follow instruction ins marugoto README on how to deploy a model in marugoto
+
+When using marugoto in the deploy mode for one of the models from this repository use
+
+for MSI:
+categories=['MSIH','nonMSIH']
+target_label='isMSIH'
+
+for BRAF:
+categories=['MUT','WT']
+target_label='BRAF'
+
+
+
