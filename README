@@ -1,18 +1,7 @@
-Download marugoto from https://github.com/KatherLab/marugoto.
-Set up dependencies in your local python environment.
-Download the model (export-X.pkl) from one of the directories in this repository.
-Rename to export.pkl .
-Follow instruction in marugoto README on how to deploy a model in marugoto.
+# Project Name
 
-When using marugoto in the deploy mode for one of the models from this repository use
+This project includes a model from [xxx/xxx] for colorectal cancer prognostic prediction.
 
-for MSI:
-categories=['MSIH','nonMSIH']
-target_label='isMSIH'
+## Usage
 
-for BRAF:
-categories=['MUT','WT']
-target_label='BRAF'
-
-
-
+Make sure you have cloned the [marugoto](https://github.com/KatherLab/marugoto) repository from the [survival](https://github.com/KatherLab/marugoto/tree/survival) branch.
