@@ -1,6 +1,6 @@
-# Paper Models Repository
+# crc-models-2022
 
-Welcome to the **crc-models-2022** Repository! This repository is dedicated to storing the trained model weights associated with our crc-related papers.
+Welcome to the **crc-models-2022** repository! This repository is dedicated to storing the trained model weights associated with our crc-related papers.
 
 ## Models
 
